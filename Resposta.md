@@ -33,7 +33,7 @@ A principal diferença entre Docker Compose e Docker Swarm está na forma como o
 ### a) Comando para inicializar o Swarm:
 
 ```bash
-sudo docker swarm init --advertise-addr <IP_DO_HOST>
+sudo docker swarm init --advertise-addr 172.18.86.37
 ```
 
 ---
@@ -93,7 +93,7 @@ sudo docker swarm leave --force
 ### Inicialização:
 
 ```bash
-sudo docker swarm init --advertise-addr <SEU_IP>
+sudo docker swarm init --advertise-addr 172.18.86.37
 ```
 
 ---
