@@ -120,7 +120,7 @@ sudo docker service ps app-stack-tf9
 ```
 
 **Evidência 1:**
-![Evidência 1:](img/eviden1.png)
+![Evidência 1:](/Aula%20008/6325016/img/eviden1.png)
 
 ---
 
@@ -134,7 +134,7 @@ curl 127.0.0.1:8001
 
 Resultado do comando:
 
-![Evidência 2:](img/image.png)
+![Evidência 2:](/Aula%20008/6325016/img/image.png)
 
 ---
 
